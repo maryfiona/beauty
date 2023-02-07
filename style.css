@@ -1,0 +1,45 @@
+body{
+	background-image: url(white.jpg);
+	overflow: hidden;
+}
+.fio{
+	position: relative;
+	left: 30em;
+
+
+}
+.story{
+	color: orange;
+}
+.girls{
+	
+	padding: 10em;
+}
+.mum{
+	color: red;
+}
+.uche{
+	 color: white;
+		background-color: blue;
+		width: 7em;
+		height: 3em;
+		border-radius: 3em;
+		border: none;
+}
+.nora{
+	padding: 3em;
+}
+.dee{
+	color: red;
+}
+.fee{
+	color: green;
+	
+
+}
+.fe{
+	color: blue;
+	}
+.fii{
+	border-radius: 50%;
+}	
